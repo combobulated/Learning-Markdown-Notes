@@ -1,6 +1,6 @@
 # Learning Github
 
-## Sub heading
+## Sub headings
 ___
 <br>
 
