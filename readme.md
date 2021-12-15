@@ -113,15 +113,33 @@ Some paragraph with text, random image from http://picsum.photos
 
 
 
-![Tux,Linux mascot](assets/images/Tux.png "The Linux Mascot")
+![Tux,Linux mascot](./Tux.png "The Linux Mascot") 
 
-Tux, the Linux mascot from local assets directory
-> *Visual Studio Code does not display this png. Reason unknown.*
+Tux, the Linux mascot from local directory, actual size
 
+
+<br><br>
+
+<img src="./Tux.png" alt="The Linux Mascot, Scaled down" width="50" height="50">
+Tux, the Linux mascot from local directory, scaled down using html 
+     <br> <br>
+     
+`html 
+     <img src="./Tux.png" alt="The Linux Mascot, Scaled down" width="50" height="50">
+`
 
 <br>
+<br>
 
+<img src="./Tux.png" alt="The Linux Mascot, Scaled down" width=auto>
+Tux, the Linux mascot from local directory, scaled automatically
 
+<br>
+<br>
+
+`html 
+     <img src="./Tux.png" alt="The Linux Mascot, Scaled down" width=auto>
+`
 <br><br><br>
 
 
