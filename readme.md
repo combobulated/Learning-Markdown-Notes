@@ -124,9 +124,9 @@ Tux, the Linux mascot from local directory, actual size
 Tux, the Linux mascot from local directory, scaled down using html 
      <br> <br>
      
-`html 
+```html 
      <img src="./Tux.png" alt="The Linux Mascot, Scaled down" width="50" height="50">
-`
+```
 
 <br>
 <br>
@@ -137,9 +137,10 @@ Tux, the Linux mascot from local directory, scaled automatically
 <br>
 <br>
 
-`html 
+```html 
      <img src="./Tux.png" alt="The Linux Mascot, Scaled down" width=auto>
-`
+```
+
 <br><br><br>
 
 
