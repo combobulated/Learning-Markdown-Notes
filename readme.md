@@ -1,12 +1,15 @@
 # Learning Github
 
 ## Sub headings
+
 ___
 <br>
 
-` place ## in front of sub heading text`
+
+`place ## in front of sub heading text`
 
 ## Notes (*for example*)
+
 - float and CF?? now equivalent
 - toggle options simplified
 - concurency drastically modified
